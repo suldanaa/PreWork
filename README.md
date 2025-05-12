@@ -1,13 +1,19 @@
 Make a list of your favorite 3-5 applications and identify 2-3 features that make them your favorite app. 
 
 1. Pinterest
+
      a. Being able to save images to your account
+
      b. Being able to create collages of images you find
-2. Swipewipe
+1. Swipewipe
+   
      a. Being able to mass delete photos from your cameraroll through a swipe left/swipe right system
+   
      b. Organization of photos by month/on this day/etc.
 3. Phonto
+   
     a. Being able to download fonts and utilize them for photo editing
+   
     b. Being able to customize the shape of images.
 
 Think of an app idea that you would like to build. 
